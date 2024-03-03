@@ -1,0 +1,224 @@
+* body {
+    background-color: rgb(228, 225, 225);
+}
+
+.headers {
+    background-color: rgb(97, 96, 96);
+    box-shadow: 0px 0px 0px black;
+}
+
+.Name {
+    margin-left: 40px;
+    padding-top: 8mm;
+    margin-right: 15mm;
+    color: aliceblue;
+}
+
+
+.headers:hover {
+    box-shadow: 5px 6px 16px black;
+    transition: 1s;
+}
+
+
+.mypic {
+    margin-left: 30px;
+    width: 50mm;
+    height: 52mm;
+    border-radius: 5%;
+    margin-bottom: 5mm;
+}
+
+.container {
+    text-align: center;
+
+    margin-left: 130mm;
+    margin-top: -30mm;
+    display: block;
+}
+
+.profession {
+    text-align: center;
+    margin-right: 15mm;
+    color: aliceblue;
+}
+
+.linkedin {
+    width: 5mm;
+    height: 5mm;
+    background: none;
+    border-color: black;
+    mix-blend-mode: lighten;
+    border-radius: 5px;
+    margin-left: 160mm;
+
+}
+
+.linkedinlink {
+    color: aliceblue;
+}
+
+.github {
+    width: 5mm;
+    height: 5mm;
+    background: none;
+    border-color: black;
+    /* mix-blend-mode:lighten; */
+    border-radius: 5px;
+    margin-left: 10mm;
+
+}
+
+.githublink {
+    color: aliceblue;
+}
+
+.email {
+    width: 5mm;
+    height: 5mm;
+    background: none;
+    border-color: black;
+    mix-blend-mode: lighten;
+    
+    border-radius: 5px;
+    margin-left: 10mm;
+
+}
+
+.emailid {
+    color: aliceblue;
+}
+
+.aboutme {
+display: inline-block;
+    width: 400px;
+
+    background-color: black;
+    padding: 40px;
+    margin-top: 10mm;
+    color: white;
+
+}
+.aboutme:hover {
+    /* box-shadow: 5px 6px  16px  rgb(133, 131, 131); */
+    transition: 0.5s;
+    padding-right: 20mm;
+    margin-left: -1mm;
+    padding-top: -2mm;
+}
+
+
+
+.personalinfo {
+display: inline-block;
+    color: white;
+    background-color: black;
+    width: 400px;
+    background-color: black;
+    padding-left: 10mm;
+    padding-right: 55mm;
+    margin-left: 8mm;
+    padding-top: 10mm;
+    padding-bottom: 10mm;
+    margin-top: 10mm;
+
+}
+
+.personalinfo:hover {
+
+    transition: 0.5s;
+    padding-right: 70mm;
+    margin-left: -1mm;
+    padding-top: -2mm;
+}
+
+
+.education {
+display: inline-block;
+    width: 150px;
+    background-color: black;
+    padding-left: 10mm;
+    padding-right: 55mm;
+    margin-left: 8mm;
+    padding-top: 10mm;
+    padding-bottom: 10mm;
+    margin-top: 10mm;
+    color: white;
+
+}
+
+
+.education:hover {
+
+    transition: 0.5s;
+    padding-right: 10mm;
+    margin-left: -1mm;
+    padding-top: -2mm;
+}
+
+.projects {
+display: inline-block;
+    width: 150px;
+    background-color:black;
+    padding-left: 10mm;
+    padding-right: 55mm;
+    margin-left: 8mm;
+    padding-top: 10mm;
+    padding-bottom: 10mm;
+    margin-top: 10mm;
+    color: white;
+
+}
+
+.projects:hover {
+    /* box-shadow: 5px 6px  16px  rgb(133, 131, 131); */
+    transition: 0.5s;
+    padding-right: 10mm;
+    margin-left: -1mm;
+    padding-top: -2mm;
+    /* visibility: visible;
+             */
+    /* display: block; */
+
+}
+
+.vdbtn:hover {
+    padding-right: 6mm;
+    transition: 0.3s;
+    margin-left: -1mm;
+    padding-top: -2mm;
+}
+
+.skills {
+
+    display: inline-block;
+    width: 100px;
+    color: white;
+    padding-left: 10mm;
+    padding-right: 55mm;
+    margin-left: 8mm;
+    padding-top: 10mm;
+    padding-bottom: 10mm;
+    margin-top: 10mm;
+    background-color: black;
+}
+
+.skills:hover {
+    /* box-shadow: 5px 6px  16px  rgb(133, 131, 131); */
+    transition: 0.5s;
+    padding-right: 10mm;
+    margin-left: -1mm;
+    padding-top: -2mm;
+
+}
+
+
+footer {
+    background-color: black;
+    border: solid 3px black;
+    margin: 6mm;
+    margin-left: 8mm;
+    text-align: center;
+    color: aliceblue;
+    padding: 3mm;
+}
